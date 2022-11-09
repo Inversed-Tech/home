@@ -1,12 +1,12 @@
 {
-  "name": "particle",
+  "name": "inversed-tech-home",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Nathan Randecker",
+  "author": "inversed",
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.26.3",
