@@ -1,17 +1,15 @@
 # Site settings
-title: Inversed Tech
-description: Crypto Powerhouse
+title: Inversed Technologies
+description: building the future of the open internet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Inversed Tech
-user_description: Inversed Tech main expertise is Desc Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Crypto Powerhouse
+user_description: We work on research and development with open source ecosystems to bring the state-of-the-art cryptography to the top protocols in the web3 and blockchain space, contributing meaningfully to the development of their functionality, security, interoperability and efficiency.
 email: info@inversed.tech
 twitter_username: inversed_tech
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+github_username:  Inversed-Tech
 
 # Google-analytics
 google-analytics:
