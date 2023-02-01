@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "gulp",
-    "build": "gulp jekyll-build"
+    "dev": "gulp"
   },
   "author": "inversed",
   "license": "ISC",
